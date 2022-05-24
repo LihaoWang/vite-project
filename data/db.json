@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": ">> Blockquotes can also be nested...\n",
+      "tags": ["webdev", "coding", "news"]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": ["css", "webdev", "coding"]
+    },
+    {
+      "title": "123",
+      "body": "asdas",
+      "tags": ["12", "321wad"],
+      "id": 3
+    }
+  ]
+}
